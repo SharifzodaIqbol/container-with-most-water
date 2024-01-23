@@ -1,0 +1,4 @@
+﻿  container-with-most-water.cpp
+C:\Users\USER\Desktop\push\container-with-most-water\container-with-most-water\container-with-most-water.cpp(9,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\USER\Desktop\push\container-with-most-water\container-with-most-water\container-with-most-water.cpp(26,8): warning C4101: wt: неиспользованная локальная переменная
+  container-with-most-water.vcxproj -> C:\Users\USER\Desktop\push\container-with-most-water\x64\Debug\container-with-most-water.exe
